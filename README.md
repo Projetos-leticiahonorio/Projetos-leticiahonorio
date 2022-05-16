@@ -1,7 +1,7 @@
 ### Olá, seja bem vindo ao meu perfil do GitHub 👋
 
 - 💻 Estou cursando tecnologia para internet na ETEC MCM.
-- 💬 Meu nome é Leicia Honorio Pereira e tenho 17 anos.
+- 💬 Meu nome é Leicia Honorio Pereira e tenho 16 anos.
 - 📫 Como me contatar: leticiahonorio83@gmail.com
 
 <div align="center">
